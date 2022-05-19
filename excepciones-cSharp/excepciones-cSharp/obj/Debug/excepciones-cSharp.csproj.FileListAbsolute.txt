@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\excepciones-cSharp\excepciones-cSharp\bin\Debug\excepciones-cSharp.exe.config
+C:\Users\hp\source\repos\excepciones-cSharp\excepciones-cSharp\bin\Debug\excepciones-cSharp.exe
+C:\Users\hp\source\repos\excepciones-cSharp\excepciones-cSharp\bin\Debug\excepciones-cSharp.pdb
+C:\Users\hp\source\repos\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.exe
+C:\Users\hp\source\repos\excepciones-cSharp\excepciones-cSharp\obj\Debug\excepciones-cSharp.pdb
